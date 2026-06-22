@@ -1,0 +1,6 @@
+name = input("Enter your name:- ")
+age = input("Enter your age:- ")
+college = input("Enter your college:- ")
+print(f"Hello {name}")
+print(f"You are {age} years old")
+print(f"You stay at {college} college")
